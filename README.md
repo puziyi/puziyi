@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @puziyi
+- I'm currently learning advanced math (to be a better programmer:) and some "ancient" programming languages, like COBOL and C64; wanna find out how people built the world half-century ago. 
+- Also, I'm writing some detective stories with high coder characteristics. 
